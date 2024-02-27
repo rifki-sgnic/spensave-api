@@ -1,4 +1,4 @@
-# Project Title
+# Spensave API
 
 An API for SpenSave using Express JS and MongoDB
 
