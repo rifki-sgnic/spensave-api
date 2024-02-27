@@ -8,23 +8,23 @@ An API for SpenSave using Express JS and MongoDB
 Clone the project
 
 ```bash
-  git clone https://github.com/rifki-sgnic/spensave-api.git
+git clone https://github.com/rifki-sgnic/spensave-api.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd spensave-api
+cd spensave-api
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+npm install
 ```
 
 Start the server
 
 ```bash
-  npm start
+npm start
 ```
